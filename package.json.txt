@@ -1,1 +1,5 @@
 COMING SOON
+
+LOGS:
+
+ _ERR: Init not found
